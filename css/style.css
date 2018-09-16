@@ -1,0 +1,13 @@
+/* background for body */
+body{
+    margin:0;
+    padding:0;
+    background-color: #303853;
+    font-family: 'Wendy One', sans-serif;
+    font-size: 1.5em;
+    color:white;
+    text-align:center;
+   background:-moz-linear-gradient(top,rgba(48,56,83,1)0%, rgba(32,38,55,1)100%);
+   background: -webkit-linear-gradient(top, rgba(48,56,83,1) 0%,rgba(32,38,55,1) 100%); /* Chrome10-25,Safari5.1-6 */
+   background:linar-gradient(to bottom, rgba(48,56,83,1))
+}
